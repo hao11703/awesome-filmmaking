@@ -62,7 +62,8 @@ _Paid:_
 
 _Blogs/Websites:_
  * [No Film School](http://nofilmschool.com/)
- * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
+ * [vflow](https://vflow.live/browse/) - Free AI-video reference library for studying camera movement and lighting, pairing previews with source text and original creator links.
+* [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
  
 _YouTube channels:_
  * [Dave Dugdale](https://www.youtube.com/user/drumat5280)
